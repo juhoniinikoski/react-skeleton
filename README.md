@@ -2,7 +2,7 @@
 
 ## How to use
 
-1. Clone this repository (if you haven't already) and `run npm install` in the root directory.
+1. Clone this repository (if you haven't already) and run `npm install` in the root directory.
 
 2. Remove the version tracking from the skeleton by running `rm -rf .git` in the root directory as well.
 
