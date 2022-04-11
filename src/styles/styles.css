@@ -19,3 +19,18 @@ h1 {
   margin-top: 100px;
 }
 
+@media screen and (max-width: 992px) {
+
+  .main-container {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+
+  .main-container {
+    width: 96%;
+  }
+
+}
+
